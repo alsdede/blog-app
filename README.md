@@ -1,6 +1,5 @@
 # blog-app
 Blogpost  CRUD made with React Native and Context.
-
 Blogpost CRUD feito com React Native e Context.
 
 Instalação e execução
