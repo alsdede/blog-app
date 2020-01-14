@@ -9,4 +9,5 @@ Instalação e execução
 3. Rode `yarn` para instalar as dependências;
 4. Inicie o server rodando `yarn run db`
 5. Inicie o tunnel rodando `yarn run tunnel`
-5. Rode `yarn start` para iniciar o frontend.
+6. Altere o endereço da api no arquivo jsonserverblog/db.js para o exibido no terminal do tunnel.
+7. Rode `yarn start` para iniciar o frontend.
