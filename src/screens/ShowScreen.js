@@ -9,10 +9,10 @@ const ShowScreen = ({ navigation }) => {
     console.log(navigation.getParam('id'));
     console.log(blogPost.id);
     return(
-    <View>
-        <Text>{blogPost.title}</Text>
-        <Text>{blogPost.content}</Text>
-        <Text>{blogPost.id}</Text>
+    <View style={styles.container}>
+        <Text style={styles.title}>{blogPost.title}</Text>
+        <Text style={styles.content}>{blogPost.content}</Text>
+        
 
     </View>
 
@@ -26,6 +26,20 @@ ShowScreen.navigationOptions = ({ navigation }) => {
                      </TouchableOpacity>
     };
 };
-const styles = StyleSheet.create({});
+const styles = StyleSheet.create({
+    container:{
+        flex:1,
+        alignItems:'center',
+        paddingHorizontal:10,       
+        
+    },
+    title:{
+        marginTop:20,
+        fontSize:25,
+    },
+    content:{
+        marginTop:40,
+    }
+});
 
 export default ShowScreen;

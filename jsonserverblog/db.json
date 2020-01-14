@@ -1,0 +1,9 @@
+{
+  "blogposts": [
+    {
+      "title": "API POST edit",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra neque nec massa pharetra, in tempor augue lacinia. Morbi quis nisi commodo, venenatis enim sit amet, hendrerit ante. Suspendisse consequat enim vitae dui laoreet, vitae finibus nunc faucibus. Proin euismod libero vitae orci ultricies tempor. Nunc eu lobortis nisl, ut eleifend mi. Suspendisse eu venenatis tortor, sit amet condimentum erat. Sed pharetra finibus porta. Praesent egestas purus ultricies, lacinia tortor id, convallis ex. Maecenas eget aliquet nibh, ac vestibulum quam. Nulla facilisi. Sed hendrerit velit id ante sagittis commodo. Duis lacus turpis, congue id convallis suscipit, condimentum in magna. Vestibulum dapibus, enim sit amet rutrum rhoncus, dolor eros pellentesque nisl, sed porta nunc tortor id purus. Nulla laoreet sem in erat vehicula, eu pellentesque lacus egestas. Nullam id volutpat urna. Vivamus sit amet gravida nisi.",
+      "id": 1
+    }
+  ]
+}
